@@ -107,3 +107,5 @@ dist
 cache
 frontend/node_modules
 
+# idea
+.idea
